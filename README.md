@@ -47,8 +47,8 @@ _Insertar una imagena aca_
 
 * **Neider Alejandro Fajardo Cardona** - *20142020025*
 
-Hola :) Por fa cambien esto con lo que debe ir acá, el profe dijo que esto tiene que estar bien documentado, supongo que quiere que digamos que herramientas estamos dockerizando y esas cosas, acá está de donde lo saqué: 
+## Referencias:
+*https://medium.com/@Joachim8675309/jenkins-environment-using-docker-6a12603ebf9
+*https://jenkins.io/doc/
+*https://docs.docker.com/compose/
 
-https://medium.com/@Joachim8675309/jenkins-environment-using-docker-6a12603ebf9
-
-Me avisan cualquier cosa
