@@ -1,3 +1,4 @@
+![jenkins-docker](https://user-images.githubusercontent.com/31807256/56621070-b7b29000-65f0-11e9-8fa4-3c9b98dcd086.jpg)
 # Docker-Compose-Jenkins
 _El siguiente repositorio contiene un entorno de Jenkins haciendo uso de Docker Compose._
 
