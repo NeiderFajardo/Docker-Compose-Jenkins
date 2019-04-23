@@ -32,6 +32,12 @@ services:
 ```
 _La forma más fácil de ejecutar este contenedor es en modo privilegiado, ya que tendrá todos los permisos y el acceso necesarios para construir contenedores de ventana acoplable._
 
+_Para montar la aplicacion simplemente ejecutamos:_
+```docker-compose up```
+_Una vez que el servicio esté listo, puede acceder a él desde el navegador con localhost:8080._
+
+_Insertar una imagena aca_
+
 ## Autores
 
 * **Cristian Camilo Cuervo Castillo** - *20142020025*
