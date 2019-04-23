@@ -1,7 +1,9 @@
 # Docker-Compose-Jenkins
 _El siguiente repositorio contiene un entorno de Jenkins haciendo uso de Docker Compose._
 
-##Autores
+## 
+
+## Autores
 
 * **Cristian Camilo Cuervo Castillo** - *20142020025*
 
