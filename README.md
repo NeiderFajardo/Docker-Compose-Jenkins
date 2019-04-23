@@ -48,7 +48,7 @@ _Insertar una imagena aca_
 * **Neider Alejandro Fajardo Cardona** - *20142020025*
 
 ## Referencias:
-*https://medium.com/@Joachim8675309/jenkins-environment-using-docker-6a12603ebf9
-*https://jenkins.io/doc/
-*https://docs.docker.com/compose/
+* https://medium.com/@Joachim8675309/jenkins-environment-using-docker-6a12603ebf9
+* https://jenkins.io/doc/
+* https://docs.docker.com/compose/
 
